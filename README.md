@@ -49,13 +49,13 @@ The app also integrates **AI features** to provide smart suggestions, summaries,
 
 ## 📸 Screenshots
 
-| Home Screen | Task List | Note Editor |
-|-------------|-----------|-------------|
-| ![Home](screenshots/HomeScreen.jpg) 
-| ![Tasks](screenshots/TasksScreen.jpg) 
-| ![Notes](screenshots/NotesScreen.jpg) |
-| ![AI_Summarizing](screenshots/NotesScreen_AI_Summarizing.jpg) |
-| ![AI_Summarized](screenshots/AI_Summarized.jpg) |
+| Home Screen | Task List | Notes | AI Summaizing | AI Summarized
+|-------------|-----------|-------------|-------------|-------------|
+| ![Home](screenshots/HomeScreen.jpg) | ![Tasks](screenshots/TasksScreen.jpg) | ![Notes](screenshots/NotesScreen.jpg) | ![AI_Summarizing](screenshots/NotesScreen_AI_Summarizing.jpg) | ![AI_Summarized](screenshots/AI_Summarized.jpg) |
+
+
+
+
 
 ---
 
