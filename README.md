@@ -51,10 +51,11 @@ The app also integrates **AI features** to provide smart suggestions, summaries,
 
 | Home Screen | Task List | Note Editor |
 |-------------|-----------|-------------|
-| ![Home](screenshots/home_screen.jpg) 
-| ![Tasks](screenshots/task_list.png) 
-| ![Editor](screenshots/note_editor.png) |
-| ![AI_Summarized]
+| ![Home](screenshots/HomeScreen.jpg) 
+| ![Tasks](screenshots/TasksScreen.jpg) 
+| ![Notes](screenshots/NotesScreen.jpg) |
+| ![AI_Summarizing](screenshots/NotesScreen_AI_Summarizing.jpg) |
+| ![AI_Summarized](screenshots/AI_Summarized.jpg) |
 
 ---
 
